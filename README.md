@@ -1,12 +1,12 @@
 # Compositional Coding for Collaborative Filtering 
 
-## Announcement:
+## Announcement
 
-* The paper has been accepted by SIGIR'19, Paris, France([http://sigir.org/sigir2019/program/accepted/](http://sigir.org/sigir2019/program/accepted/)).
+The paper has been accepted by SIGIR'19, Paris, France([http://sigir.org/sigir2019/program/accepted/](http://sigir.org/sigir2019/program/accepted/)).
 
-## Description:
+## Description
 
-* The repo consists the code of Compositional Coding for Collaborative Filtering . It works on Matlab R2016a. You just need to run the main.m to start the code.
+The repo consists the code of Compositional Coding for Collaborative Filtering . It works on Matlab R2016a. You just need to run the main.m to start the code.
 
 ## Citation 
 If you want to use our codes in your research, please cite:
@@ -24,3 +24,6 @@ If you want to use our codes in your research, please cite:
 }
 ```
 
+## Acknowledgement 
+
+This research/project is supported by the National Research Foundation, Singapore under its AI Singapore Programme (AISG Award No: AISG-RP-2018-001).
